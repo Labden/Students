@@ -1,0 +1,13 @@
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\bin\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.exe
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\bin\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.deps.json
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\bin\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.runtimeconfig.json
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\bin\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.runtimeconfig.dev.json
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\bin\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.dll
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\bin\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.pdb
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.csprojAssemblyReference.cache
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.AssemblyInfoInputs.cache
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.AssemblyInfo.cs
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.csproj.CoreCompileInputs.cache
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.dll
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.pdb
+C:\Users\Labden\source\repos\TommysStudentDatabaseBreakout\TommysStudentDatabaseBreakout\obj\Debug\netcoreapp3.1\TommysStudentDatabaseBreakout.genruntimeconfig.cache
